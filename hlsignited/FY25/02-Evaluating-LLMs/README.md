@@ -1,6 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 
-## **📝 Recap Session 01 – Introducing MedEvals**
+## **📝 Recap Session 02 – Introducing MedEvals**
 
 > In this session, we introduced **MedEvals**, an end-to-end evaluation framework for medical AI applications built on **Azure AI Foundry**. Inspired by Stanford’s MedHELM benchmark, MedEvals enables providers and payers to systematically validate performance, safety, and compliance of AI solutions across clinical decision support, documentation, patient communication, and more.
 
